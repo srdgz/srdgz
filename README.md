@@ -4,7 +4,7 @@
 [![GitHub Sandra](https://img.shields.io/github/followers/srdgz?label=follow&style=social)](https://github.com/srdgz)
 
 <h2>Full-Stack developer en España</h2>
-<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXpjN3A5cTlnY3RhejVyNWtoNXlyMGw3d3F1ZzFucTB3MXlibjh1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.webp" width="300" style="border-radius: 50%; margin-left: 20px;">
+<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXpjN3A5cTlnY3RhejVyNWtoNXlyMGw3d3F1ZzFucTB3MXlibjh1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.webp" width="280" style="border-radius: 50%; margin-left: 20px;">
 <p>Desarrollo aplicaciones web y móviles intuitivas y atractivas utilizando frameworks actuales como React y React Native.</p>
 
 ```javascript
