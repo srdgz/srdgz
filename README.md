@@ -16,7 +16,7 @@ const sandra = {
         linkedIn: 'https://www.linkedin.com/in/sandra-rodriguez-reyes',
     },
     habilidades: {
-        frontend: ['JavaScript ES6', 'TypeScript', 'React.js', 'React Native',
+        frontend: ['JavaScript ES6', 'TypeScript', 'React', 'React Native',
             'Bootstrap', 'Tailwind CSS', 'HTML5', 'CSS3'],
         backend: ['Node.js', 'Express', 'Python', 'Flask', 'PostgreSQL',
             'SQLAlchemy', 'APIs', 'AWS'],
