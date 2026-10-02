@@ -1,37 +1,40 @@
-# <h1 align="center"> ¡Hola! 👋, soy Sandra 👩‍💻</h1>
+## ¡Hola! 👋 Soy Sandra
 
-[![Linkedin: Sandra](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandra-rodriguez-reyes/)](https://www.linkedin.com/in/sandra-rodriguez-reyes/)
-[![GitHub Sandra](https://img.shields.io/github/followers/srdgz?label=follow&style=social)](https://github.com/srdgz)
+**Desarrolladora frontend web y móvil** · React Native · Vue 3 · React · TypeScript
 
-<h2>Full-Stack developer en España</h2>
-<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXpjN3A5cTlnY3RhejVyNWtoNXlyMGw3d3F1ZzFucTB3MXlibjh1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.webp" width="280" style="border-radius: 50%; margin-left: 20px;">
-<p>Desarrollo aplicaciones web y móviles intuitivas y atractivas utilizando frameworks actuales como React y React Native.</p>
+📍 España · Disponible para trabajar en remoto
 
-```javascript
-const sandra = {
-    profesion: 'full-stack developer',
-    contacto: {
-        email: 'rreyes.sandra@gmail.com',
-        portfolio: 'https://sandrarodriguez.vercel.app/',
-        linkedIn: 'https://www.linkedin.com/in/sandra-rodriguez-reyes',
-    },
-    habilidades: {
-        frontend: ['JavaScript ES6', 'TypeScript', 'React', 'React Native',
-            'Bootstrap', 'Tailwind CSS', 'HTML5', 'CSS3'],
-        backend: ['Node.js', 'Express', 'Python', 'Flask', 'PostgreSQL',
-            'SQLAlchemy', 'APIs', 'AWS'],
-        testing: ['Jest', 'Detox'],
-        metodologia: ['Agile', 'Scrum'],
-        herramientas: ['Git', 'GitHub', 'Postman', 'Figma']
-    }    
-};
-```
+Llegué a la programación en 2023 tras un cambio de carrera desde la educación, y desde entonces llevo casi 3 años construyendo aplicaciones en producción. Lo que más me gusta es cuidar la experiencia de quien usa la app y dejar el código en un estado en el que el equipo pueda seguir avanzando.
 
-[![srdgz's github stats](https://github-readme-stats.vercel.app/api?username=srdgz&theme=tokyonight&hide_border=true)](https://github.com/srdgz/github-readme-stats)
-<a href="https://github.com/srdgz/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srdgz&layout=compact&theme=tokyonight&hide_border=true" /></a>
+### 💼 Experiencia
 
-<h2> Puedes encontrarme 🔎:</h2>
+**MyAlbatross** · Frontend Developer · dic. 2024 – sep. 2026
 
-- [Email](mailto:rreyes.sandra@gmail.com)
-- [Portfolio](https://sandrarodriguez.vercel.app/)
-- [LinkedIn](https://www.linkedin.com/in/sandra-rodriguez-reyes)
+Plataforma de prevención de lesiones de corredores y planificación para entrenadores.
+
+- App móvil en React Native + TypeScript (Zustand) y web en Vue 3 + TypeScript (Pinia, Element Plus).
+- Puse en marcha una app que no llegaba a funcionar y la acompañé hasta superar los 2.000 usuarios registrados.
+- Suscripciones y pagos con RevenueCat y Stripe; publicación en App Store y Google Play.
+- Despliegues en AWS Amplify con GitHub Actions. Scrum con sprints de dos semanas.
+- Desarrollo guiado por especificaciones con Claude Code.
+
+**Bubbo** · ene. – sep. 2024
+
+- Desarrollo de Bubbo TV en React Native con Expo: más de 150.000 descargas entre iOS y Android.
+- RevenueCat, AWS Cognito y S3. Tests E2E con Detox integrados en CI/CD.
+
+**Clidefit** · sep. – dic. 2023
+
+- Desarrollo web con React y Tailwind CSS.
+
+### 🛠️ Stack
+
+- **Móvil:** React Native (bare y Expo), Zustand, RevenueCat, Detox
+- **Web:** Vue 3 (Composition API), Pinia, Element Plus, React, Astro, Tailwind CSS
+- **Lenguajes:** TypeScript, JavaScript, HTML, CSS
+- **Servicios:** Stripe, AWS (Amplify, Cognito, S3), Firebase
+- **Herramientas:** GitHub Actions, Jest, Git, Jira, Figma, Claude Code
+
+### 📫 Contacto
+
+[Email](mailto:rreyes.sandra@gmail.com) · [Portfolio](https://sandrarodriguez.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/sandra-rodriguez-reyes)
