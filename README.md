@@ -4,7 +4,7 @@
 
 📍 España · Disponible para trabajar en remoto
 
-Llegué a la programación en 2023 tras un cambio de carrera desde la educación, y desde entonces llevo casi 3 años construyendo aplicaciones en producción. Lo que más me gusta es cuidar la experiencia de quien usa la app y dejar el código en un estado en el que el equipo pueda seguir avanzando.
+Llegué a la programación en 2023 tras un cambio de carrera y desde entonces llevo 3 años construyendo aplicaciones en producción. Lo que más me gusta es cuidar la experiencia de quien usa la app y dejar el código en un estado en el que el equipo pueda seguir avanzando.
 
 ### 💼 Experiencia
 
