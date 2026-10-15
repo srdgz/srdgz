@@ -20,7 +20,7 @@ Plataforma de prevención de lesiones de corredores y planificación para entren
 
 **Bubbo** · ene. – sep. 2024
 
-- Desarrollo de Bubbo TV en React Native con Expo: más de 150.000 descargas entre iOS y Android.
+- Desarrollo de la app Bubbo en React Native con Expo: más de 150.000 descargas entre iOS y Android.
 - RevenueCat, AWS Cognito y S3. Tests E2E con Detox integrados en CI/CD.
 
 **Clidefit** · sep. – dic. 2023
