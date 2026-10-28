@@ -32,9 +32,9 @@ Injury-prevention platform for runners and training planner for coaches, with ov
 ### 🚀 Featured projects
 
 - **[ApplyTrack](https://applytrack-roan.vercel.app)** · Job application tracker with a Vue 3 web app and a React Native app sharing a core built on hexagonal architecture. Supabase/PostgreSQL with migrations, RLS policies, SQL functions and triggers. Tests with Vitest and CI.
+- **[Compis](https://compis-app.vercel.app)** · Shared-flat manager for tasks, shopping, expenses and debts. React, TypeScript and Flask. WCAG 2.2 AA accessible and installable as a PWA. With Cloudinary and Paypal.
 - **[SmartStay](https://smartstay.vercel.app)** · Accommodation booking app with Next.js: REST API, NextAuth (OAuth), Sanity as CMS and Stripe payments with webhooks. Tests with Vitest and Testing Library.
 - **[FrescaGo](https://frescago.vercel.app)** · E-commerce with a full online checkout: React and Tailwind CSS frontend, Node.js and Express backend for Stripe payments, and Firebase for authentication and data.
-- **[RoomieConnect](https://roomieconnect-msl6.onrender.com/)** · Shared-flat management app for tasks and expenses, built as a team of 3 (bootcamp final project). REST API with Python and Flask, JWT, SQLAlchemy, Alembic migrations and PostgreSQL, with Cloudinary and PayPal.
 
 ### 🛠️ Stack
 
