@@ -33,6 +33,7 @@ Injury-prevention platform for runners and training planner for coaches, with ov
 
 - **[ApplyTrack](https://applytrack-roan.vercel.app)** · Job application tracker with a Vue 3 web app and a React Native app sharing a core built on hexagonal architecture. Supabase/PostgreSQL with migrations, RLS policies, SQL functions and triggers. Tests with Vitest and CI.
 - **[Compis](https://compis-app.vercel.app)** · Shared-flat manager for tasks, shopping, expenses and debts. React, TypeScript and Flask. WCAG 2.2 AA accessible and installable as a PWA. With Cloudinary and Paypal.
+- **[NEXO](https://nexo-life-manager.vercel.app/) · Life manager for money, tasks and calendar built with Angular 22 (zoneless, signals, Signal Forms) on a hexagonal architecture. Supabase with RLS, Edge Functions and Realtime, an AI assistant with Gemini tool calling, and CSV/.ics import and export. WCAG 2.2 AA accessible, light and dark themes, and a demo mode.
 - **[SmartStay](https://smartstay.vercel.app)** · Accommodation booking app with Next.js: REST API, NextAuth (OAuth), Sanity as CMS and Stripe payments with webhooks. Tests with Vitest and Testing Library.
 - **[FrescaGo](https://frescago.vercel.app)** · E-commerce with a full online checkout: React and Tailwind CSS frontend, Node.js and Express backend for Stripe payments, and Firebase for authentication and data.
 
